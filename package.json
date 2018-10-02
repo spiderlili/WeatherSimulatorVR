@@ -1,0 +1,21 @@
+{
+  "name": "WeatherSimVR",
+  "version": "1.0.0",
+  "description": "VR Weather simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiderlili/WeatherSimulatorVR.git"
+  },
+  "author": "Jing Chun Tan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "webpack": "^4.20.2",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
